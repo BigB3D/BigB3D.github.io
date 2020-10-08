@@ -142,10 +142,29 @@ nav {
 }
 
 
-body{
+.b_backround{
   background: url(1.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.gray_back{
+  background-color: #101010;
+}
+
+.about_text{
+  color: white;
+  font-family: 'Sawarabi Gothic', sans-serif;
+  padding: 100px;
+  font-size: 20px;
+}
+
+.oneabt_text{
+  color: white;
+  font-family: 'Sawarabi Gothic', sans-serif;
+  font-size: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
